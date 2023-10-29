@@ -1,0 +1,17 @@
+.input {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    /* align-items: center; */
+    justify-content: center;
+
+
+
+}
+
+.google-button {
+    padding: 1.5rem 1rem;
+
+
+}
